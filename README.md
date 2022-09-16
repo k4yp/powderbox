@@ -1,5 +1,7 @@
 # PowderBox
 
+![](src/img1.png)
+
 ## Prerequisites
 - Python 3.9 or higher
 - Pygame (can be installed with `pip install pygame`)
@@ -10,3 +12,5 @@
 - `mouse` : wheel: select different tiles
 - `space` : pause / unpause the simulation
 - `ESC` : reset the canvas
+
+![](src/img2.png)
